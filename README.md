@@ -45,7 +45,7 @@ pip install requests
 pip install colorama
 ```
 ```
-cd NIK-VALIDATE
+cd NIK-VALIDATE-V2
 ```
 ```
 python validate.py
