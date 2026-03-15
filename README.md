@@ -48,7 +48,7 @@ pip install colorama
 cd NIK-VALIDATE
 ```
 ```
-python Nik-validate.py
+python validate.py
 ```
 ### ©️ Copyright
 Copyright © 2025 by [Juned](https://github.com/k54013687-tech)
